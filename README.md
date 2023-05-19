@@ -22,6 +22,8 @@ University of Colorado Boulder
   yielded an accuracy of 69% and LSTM with textual data has yielded 12%. 025 026 026
 
  **2 Introduction**
+ 
+ 
  This project is an attempt to perform classification task on Audio inputs with the 
  help of neural network architectures like Convolutional Neural networks (CNN) 
  and Recurrent Neural Networks (RNN) i.e given an audio clip as an input, we 
